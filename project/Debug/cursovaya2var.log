@@ -1,0 +1,8 @@
+﻿  AI.cpp
+  Extern.cpp
+  WIN.cpp
+  main.cpp
+C:\Users\79962\source\repos\cursovaya2var\cursovaya2var\main.cpp(550,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\79962\source\repos\cursovaya2var\cursovaya2var\main.cpp(1123,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  cursovaya2var.vcxproj -> C:\Users\79962\source\repos\cursovaya2var\Debug\cursovaya2var.exe
